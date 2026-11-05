@@ -8,8 +8,8 @@ I bridge the gap between complex business requirements and engineering execution
 `Advanced SQL` `REST APIs` `Postman` `Jira / Agile` `Data Validation` `PRD / BRD Authoring`
 
 ### 📂 Featured Work
-*   **[SQL Data Validation Framework](link-to-your-sql-repo)** - Automated ledger auditing for Stripe webhooks.
-*   **[API Integration Specs](link-to-your-api-repo)** - PRD and schema mapping for multi-currency payment gateways.
+*   **[SQL Data Validation Framework](https://github.com/vaibhavs-techBA/SQL-Data-Validation)** - Automated ledger auditing for Stripe webhooks.
+*   **[API Integration Specs](https://github.com/vaibhavs-techBA/API-Integration-Specs)** - PRD and schema mapping for multi-currency payment gateways.
 
 ### 📫 Connect with me
 *   **LinkedIn:** [linkedin.com/in/vaibhavs-tech](https://www.linkedin.com/in/vaibhavs-tech)
